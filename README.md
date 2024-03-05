@@ -15,7 +15,7 @@
 <!-- Table of Contents -->
 ## Table of Contents
 - [About](#about)
-- [Array and Hashing](#array-and-hashing)
+- [Arrays and Hashing](#array-and-hashing)
 - [Contribution](#contribution)
 - [Contact](#contact)
 
