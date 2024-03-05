@@ -24,7 +24,8 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 
 | #   | Title                                                | Solution                                | Explanation                        | Difficulty | Company |
 | --- | ---------------------------------------------------- | ---------------------------------------| ---------------------------------- | ---------- | --------|
-| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)   | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/Contains%20Duplicate.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/explanation.md) | Easy       |Amazon, Adobe, Google, Apple, Microsoft, Bloomberg, Uber, Yahoo,TCS  |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)   | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/Contains%20Duplicate.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/explanation.md) | Easy       |Amazon, Adobe, Google, Apple, Microsoft, Bloomberg, Uber, Yahoo, TCS  |
+
 | 2   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./array-and-hashing/contains_duplicate.py) | [Explanation](./array-and-hashing/contains_duplicate.md) | Easy       |
 | 3   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./array-and-hashing/maximum_subarray.py) | [Explanation](./array-and-hashing/maximum_subarray.md) | Easy       |
 | 4   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./array-and-hashing/product_of_array_except_self.py) | [Explanation](./array-and-hashing/product_of_array_except_self.md) | Medium     |
