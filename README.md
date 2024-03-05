@@ -1,5 +1,9 @@
 <!-- Project Title -->
-<h1 align="center">LeetCode Solutions</h1>
+<h1 align="center">
+  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_logo_rainbow.svg" alt="LeetCode Logo" width="200">
+  <br>
+  LeetCode Solutions
+</h1>
 
 <!-- Project Description -->
 <p align="center">A collection of my solutions to LeetCode problems, categorized by topics, with explanations and difficulty ratings.</p>
