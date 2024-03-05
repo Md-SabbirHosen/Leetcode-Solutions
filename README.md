@@ -1,10 +1,11 @@
 <!-- Project Title -->
-<h1 align="center">
+<div align="center">
   <h1 align="center">LeetCode Solutions</h1>
   <br>
   <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" alt="LeetCode Logo" width="700">
   <br>
-</h1>
+</div>
+
 
 
 <!-- Project Description -->
