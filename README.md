@@ -1,6 +1,6 @@
 <!-- Project Title -->
 <h1 align="center">
-  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_logo_rainbow.svg" alt="LeetCode Logo" width="200">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2Fproblemset%2F&psig=AOvVaw1EuyQEim-FW8DfvNkq_fWl&ust=1709725776565000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKikvP2G3YQDFQAAAAAdAAAAABAE" alt="LeetCode Logo" width="200">
   <br>
   LeetCode Solutions
 </h1>
