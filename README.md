@@ -16,11 +16,11 @@
 - [Contact](#contact)
 
 <!-- About Section -->
-## About
+## About ℹ️
 Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to various LeetCode problems, neatly organized by topics. Each problem comes with a detailed explanation to help you understand the solution better. Whether you're a beginner or an experienced coder, I hope you find this repository helpful in your journey of mastering algorithms and data structures.
 
 <!-- Array and Hashing Section -->
-## Array and Hashing
+## Array and Hashing 📚
 
 | #   | Title                                                | Solution                                | Explanation                        | Difficulty | Company |
 | --- | ---------------------------------------------------- | ---------------------------------------| ---------------------------------- | ---------- | --------|
@@ -31,12 +31,12 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 | 5   | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./array-and-hashing/subarray_sum_equals_k.py) | [Explanation](./array-and-hashing/subarray_sum_equals_k.md) | Medium     |
 
 <!-- Contribution Section -->
-## Contribution
+## Contribution 🚀
 
 I welcome contributions from fellow developers! Whether you want to add new solutions, improve existing ones, or provide better explanations, your contributions are highly appreciated. Please feel free to fork this repository, make your changes, and submit a pull request.
 
 <!-- Contact Section -->
-## Contact
+## Contact 📧
 
 For any inquiries or suggestions, feel free to reach out to me:
 
