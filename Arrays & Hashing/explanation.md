@@ -53,6 +53,7 @@ public:
        return false;
     }
 };
+```
 - **Initialization:** We initialize an empty unordered set `s` to store unique elements encountered so far.
 - **Iteration:** We loop through each element `num` in the input array `nums`.
 - **Checking for Duplicate:** For each element `num`, we check if it already exists in the set `s`. We use the `count` function of the set to check if `num` is present. If the count is greater than 0, it means the element already exists in the set, indicating a duplicate. In such a case, we return `true`.
