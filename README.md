@@ -1,6 +1,6 @@
 <!-- Project Title -->
 <h1 align="center">
-  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" alt="LeetCode Logo" width="800">
+  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" alt="LeetCode Logo" width="600">
   <br>
   LeetCode Solutions
 </h1>
