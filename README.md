@@ -1,9 +1,11 @@
 <!-- Project Title -->
 <h1 align="center">
-  <h1 aligh="center" >LeetCode Solutions</h1> <br>
-  <img  src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" alt="LeetCode Logo" width="700">
+  <h1 align="center">LeetCode Solutions</h1>
+  <br>
+  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" alt="LeetCode Logo" width="700">
   <br>
 </h1>
+
 
 <!-- Project Description -->
 <p align="center">A collection of my solutions to LeetCode problems, categorized by topics, with explanations and difficulty ratings.</p>
