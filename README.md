@@ -24,7 +24,7 @@
 Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to various LeetCode problems, neatly organized by topics. Each problem comes with a detailed explanation to help you understand the solution better. Whether you're a beginner or an experienced coder, I hope you find this repository helpful in your journey of mastering algorithms and data structures.
 
 <!-- Array and Hashing Section -->
-## Array and Hashing 📚
+## Array and Hashing 📚<a name="array-and-hashing"></a>
 
 | #   | Title                                                | Solution                                | Explanation                        | Difficulty | Company |
 | --- | ---------------------------------------------------- | ---------------------------------------| ---------------------------------- | ---------- | --------|
