@@ -41,8 +41,8 @@ I welcome contributions from fellow developers! Whether you want to add new solu
 
 For any inquiries or suggestions, feel free to reach out to me:
 
-- **Email:** [](mailto:mdsabbirhosen926@gmail.com)
-- **LinkedIn:** [](https://www.linkedin.com/in/md-sabbir-hosen-b7978b1b0/)
-- **GitHub:** [](https://github.com/Md-SabbirHosen)
+- **Email:** [mdsabbirhosen926@gmail.com](mailto:mdsabbirhosen926@gmail.com)
+- **LinkedIn:** [Md. Sabbir Hosen](https://www.linkedin.com/in/md-sabbir-hosen-b7978b1b0/)
+- **GitHub:** [Md-Sabbir Hosen](https://github.com/Md-SabbirHosen)
 
 Let's connect and grow together in the world of algorithms and programming!
