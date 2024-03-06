@@ -52,9 +52,8 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 
 | #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
 | --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
-| 11 | [Container With Most Water]([https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/container-with-most-water/description/)) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/explanation.md) | Medium       |Amazon, Microsoft, Adobe, Facebook, Google, Apple, Bloomberg, Swiggy, Goldman Sachs|
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/explanation.md) | Medium       |Amazon, Microsoft, Adobe, Facebook, Google, Apple, Bloomberg, Swiggy, Goldman Sachs|
 
-| ... | ...                                                | ...                                    | ...                               | ...        | ...      |
 
 
 
