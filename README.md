@@ -16,8 +16,26 @@
 ## Table of Contents
 - [About](#about)
 - [Arrays and Hashing](#array-and-hashing)
+- [Two Pointers](#two-pointers)
+- [Sliding Window](#sliding-window)
+- [Stack](#stack)
+- [Binary Search](#binary-search)
+- [Linked List](#linked-list)
+- [Trees](#trees)
+- [Tries](#tries)
+- [Heap/Priority Queue](#heap-priority-queue)
+- [Backtracking](#backtracking)
+- [Graphs](#graphs)
+- [Advanced Graphs](#advanced-graphs)
+- [1-D Dynamic Programming](#1-d-dynamic-programming)
+- [2-D Dynamic Programming](#2-d-dynamic-programming)
+- [Greedy](#greedy)
+- [Intervals](#intervals)
+- [Math & Geometry](#math-geometry)
+- [Bit Manipulation](#bit-manipulation)
 - [Contribution](#contribution)
 - [Contact](#contact)
+
 
 <!-- About Section -->
 ## About ℹ️ <a name="about"></a>
