@@ -50,9 +50,25 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 
 ## Two Pointers
 
-| #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
-| --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/explanation.md) | Medium       |Amazon, Microsoft, Adobe, Facebook, Google, Apple, Bloomberg, Swiggy, Goldman Sachs|
+<table style="width:100%; border-collapse: collapse; border: 1px solid #ddd;">
+  <tr style="background-color: #f2f2f2;">
+    <th style="padding: 8px; border: 1px solid #ddd;">#</th>
+    <th style="padding: 8px; border: 1px solid #ddd;">Title</th>
+    <th style="padding: 8px; border: 1px solid #ddd;">Solution</th>
+    <th style="padding: 8px; border: 1px solid #ddd;">Explanation</th>
+    <th style="padding: 8px; border: 1px solid #ddd;">Difficulty</th>
+    <th style="padding: 8px; border: 1px solid #ddd;">Company</th>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border: 1px solid #ddd;">11</td>
+    <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://leetcode.com/problems/container-with-most-water/description/">Container With Most Water</a></td>
+    <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/Container%20With%20Most%20Water.cpp">C++</a></td>
+    <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/Explanation.md">Explanation</a></td>
+    <td style="padding: 8px; border: 1px solid #ddd;">Medium</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">Amazon, Microsoft, Adobe, Facebook, Google, Apple, Bloomberg, Swiggy, Goldman Sachs</td>
+  </tr>
+</table>
+
 
 
 
