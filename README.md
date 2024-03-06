@@ -48,9 +48,10 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 | --- | ---------------------------------------------------- | ---------------------------------------| ---------------------------------- | ---------- | --------|
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)   | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/Contains%20Duplicate.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/explanation.md) | Easy       |Amazon, Adobe, Google, Apple, Microsoft, Bloomberg, Uber, Yahoo, TCS  |
 
-## Two Pointers
+<!-- Two Pointers Section -->
+## Two Pointers 📚
 
-<table style="width:100%; border-collapse: collapse; border: 1px solid #ddd;">
+<table id="problemTable" style="width:100%; border-collapse: collapse; border: 1px solid #ddd;">
   <tr style="background-color: #f2f2f2;">
     <th style="padding: 8px; border: 1px solid #ddd;">#</th>
     <th style="padding: 8px; border: 1px solid #ddd;">Title</th>
@@ -67,8 +68,34 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
     <td style="padding: 8px; border: 1px solid #ddd;">Medium</td>
     <td style="padding: 8px; border: 1px solid #ddd;">Amazon, Microsoft, Adobe, Facebook, Google, Apple, Bloomberg, Swiggy, Goldman Sachs</td>
   </tr>
+  <!-- Add more rows as needed -->
 </table>
 
+<!-- JavaScript function to sort the table -->
+<script>
+function sortTable() {
+  var table, rows, switching, i, x, y, shouldSwitch;
+  table = document.getElementById("problemTable");
+  switching = true;
+  while (switching) {
+    switching = false;
+    rows = table.getElementsByTagName("TR");
+    for (i = 1; i < (rows.length - 1); i++) {
+      shouldSwitch = false;
+      x = rows[i].getElementsByTagName("TD")[4];
+      y = rows[i + 1].getElementsByTagName("TD")[4];
+      if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+        shouldSwitch = true;
+        break;
+      }
+    }
+    if (shouldSwitch) {
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+    }
+  }
+}
+</script>
 
 
 
