@@ -42,17 +42,24 @@
 Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to various LeetCode problems, neatly organized by topics. Each problem comes with a detailed explanation to help you understand the solution better. Whether you're a beginner or an experienced coder, I hope you find this repository helpful in your journey of mastering algorithms and data structures.
 
 <!-- Array and Hashing Section -->
-## Arrays and Hashing 📚<a name="array-and-hashing"></a>
+## Arrays and Hashing Problems📚<a name="array-and-hashing"></a>
 
 | #   | Title                                                | Solution                                | Explanation                        | Difficulty | Company |
 | --- | ---------------------------------------------------- | ---------------------------------------| ---------------------------------- | ---------- | --------|
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)   | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/Contains%20Duplicate.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/explanation.md) | Easy       |Amazon, Adobe, Google, Apple, Microsoft, Bloomberg, Uber, Yahoo, TCS  |
 
-## Two Pointers 📚
+## Two Pointers Problems📚
 
 | #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
 | --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/Container%20With%20Most%20Water.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/Explanation.md) | Medium | Amazon, Microsoft, Adobe, Facebook, Google, Apple, Bloomberg, Swiggy, Goldman Sachs |
+
+### Sliding Window Problems📚
+
+| #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
+| --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
+| 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/username/repository/blob/main/Java/TrappingRainWater.java) | [Explanation](https://github.com/username/repository/blob/main/Explanation/TrappingRainWater.md) | Hard | Amazon, Microsoft, Adobe, Facebook, Google, Apple, Bloomberg, Swiggy, Goldman Sachs |
+
 
 
 
