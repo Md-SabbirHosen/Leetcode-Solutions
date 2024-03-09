@@ -58,7 +58,7 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 
 | #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
 | --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
-| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [coming..](https://github.com/username/repository/blob/main/Java/TrappingRainWater.java) | [coming..](https://github.com/username/repository/blob/main/Explanation/TrappingRainWater.md) | Medium | Microsoft, Apple, Yandex, Oracle, Amazon, Google, Bloomberg, ByteDance |
+| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Sliding%20Window/Permutation%20in%20String.cpp) | [coming..](https://github.com/username/repository/blob/main/Explanation/TrappingRainWater.md) | Medium | Microsoft, Apple, Yandex, Oracle, Amazon, Google, Bloomberg, ByteDance |
 
 
 
