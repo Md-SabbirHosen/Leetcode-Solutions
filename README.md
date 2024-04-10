@@ -48,20 +48,20 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 | --- | ---------------------------------------------------- | ---------------------------------------| ---------------------------------- | ---------- | --------|
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)   | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/Contains%20Duplicate.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/explanation.md) | Easy       |Amazon, Adobe, Google, Apple, Microsoft, Bloomberg, Uber, Yahoo, TCS  |
 
-## Two Pointers Problems📚
+## Two Pointers Problems📚<a name="two-pointers"></a>
 
 | #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
 | --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/Container%20With%20Most%20Waters.cpp) | [coming...](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Two%20Pointers/Explanation.md) | Medium | Amazon, Microsoft, Adobe, Facebook, Google, Apple, Bloomberg, Swiggy, Goldman Sachs |
 
-### Sliding Window Problems📚
+### Sliding Window Problems📚<a name="sliding-window"></a>
 
 | #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
 | --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Sliding%20Window/Permutation%20in%20String.cpp) | [coming..](https://github.com/username/repository/blob/main/Explanation/TrappingRainWater.md) | Medium | Microsoft, Apple, Yandex, Oracle, Amazon, Google, Bloomberg, ByteDance |
 
 
-### Stack Problems📚
+### Stack Problems📚<a name="stack"></a>
 
 | #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
 | --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
