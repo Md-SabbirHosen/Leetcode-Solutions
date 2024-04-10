@@ -61,6 +61,13 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Sliding%20Window/Permutation%20in%20String.cpp) | [coming..](https://github.com/username/repository/blob/main/Explanation/TrappingRainWater.md) | Medium | Microsoft, Apple, Yandex, Oracle, Amazon, Google, Bloomberg, ByteDance |
 
 
+### Stack Problems📚
+
+| #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
+| --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./Stack/Valid%20Parenthesis.cpp) | [coming..](https://github.com/username/repository/blob/main/Explanation/TrappingRainWater.md) | Easy | Amazon, LinkedIn, Facebook, Microsoft, Bloomberg, Spotify, Apple, Adobe, Expedia, Google, Oracle, VMware, Cisco, Intel, Yandex, TikTok, Arista Networks, Barclays, ServiceNow, Uber, Goldman Sachs, Booking.com, Salesforce, Netflix, Dataminr, TCS |
+
+
 
 
 
