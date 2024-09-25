@@ -59,6 +59,8 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 | #   | Title                                              | Solution                               | Explanation                       | Difficulty | Company |
 | --- | -------------------------------------------------- | --------------------------------------| ---------------------------------| ---------- | --------|
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Sliding%20Window/Permutation%20in%20String.cpp) | [coming..](https://github.com/username/repository/blob/main/Explanation/TrappingRainWater.md) | Medium | Microsoft, Apple, Yandex, Oracle, Amazon, Google, Bloomberg, ByteDance |
+| 1838  | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/) | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Sliding%20Window/Permutation%20in%20String.cpp) | [coming..](https://github.com/username/repository/blob/main/Explanation/TrappingRainWater.md) | Medium | Amazon, Deutsche Bank, Uber, Adobe, Factset, Fourkites, Infosys, MAQ |
+
 
 
 ### Stack Problems📚<a name="stack"></a>
