@@ -47,6 +47,8 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 | #   | Title                                                | Solution                                | Explanation                        | Difficulty | Company |
 | --- | ---------------------------------------------------- | ---------------------------------------| ---------------------------------- | ---------- | --------|
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)   | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/Contains%20Duplicate.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/explanation.md) | Easy       |Amazon, Adobe, Google, Apple, Microsoft, Bloomberg, Uber, Yahoo, TCS  |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)   | [C++](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/Valid%20Anagram.cpp) | [Explanation](https://github.com/Md-SabbirHosen/Leetcode-Solutions/blob/main/Arrays%20%26%20Hashing/explanation.md) | Easy       |Facebook, Bloomberg, Amazon, Spotify, Microsoft, Goldman Sachs, Affirm, Google, Apple  |
+
 
 ## Two Pointers Problems📚<a name="two-pointers"></a>
 
